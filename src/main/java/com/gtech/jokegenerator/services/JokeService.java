@@ -1,4 +1,4 @@
-package com.gtech.services;
+package com.gtech.jokegenerator.services;
 
 public interface JokeService {
 

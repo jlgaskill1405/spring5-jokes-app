@@ -1,4 +1,4 @@
-package com.gtech.services;
+package com.gtech.jokegenerator.services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
